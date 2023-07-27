@@ -1,0 +1,2 @@
+# litered.cloud
+LiteRedCoin Website
